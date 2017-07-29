@@ -7,3 +7,4 @@ C:\Users\Eduardo\documents\visual studio 2017\Projects\aspnet_core_webapi_swagge
 C:\Users\Eduardo\documents\visual studio 2017\Projects\aspnet_core_webapi_swagger\aspnet_core_webapi_swagger\obj\Debug\netcoreapp1.1\aspnet_core_webapi_swagger.AssemblyInfo.cs
 C:\Users\Eduardo\documents\visual studio 2017\Projects\aspnet_core_webapi_swagger\aspnet_core_webapi_swagger\obj\Debug\netcoreapp1.1\aspnet_core_webapi_swagger.dll
 C:\Users\Eduardo\documents\visual studio 2017\Projects\aspnet_core_webapi_swagger\aspnet_core_webapi_swagger\obj\Debug\netcoreapp1.1\aspnet_core_webapi_swagger.pdb
+C:\Users\Eduardo\documents\visual studio 2017\Projects\aspnet_core_webapi_swagger\aspnet_core_webapi_swagger\obj\Debug\netcoreapp1.1\aspnet_core_webapi_swagger.csprojResolveAssemblyReference.cache
